@@ -1,0 +1,867 @@
+Year,Stage_Level_CO2e_Available,Country,Industry,Sector,Product_Weight,PCF_Protocol,PCF
+2014,Yes,USA,Food Products,Food & Beverage,0.7485,Not reported,2.0
+2015,Yes,USA,Not used for 2015 reporting,Food & Beverage,0.7485,Not reported,2.0
+2013,Yes,USA,Building Products,Comm. equipm. & capital goods,20.68,Not reported,72.54
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",110.0,ISO,1488.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",110.0,ISO,1818.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",110.0,ISO,2274.0
+2016,No,Japan,Chemicals,Chemicals,1500.0,Not reported,10000.0
+2013,No,France,Construction Materials,Construction & commercial materials,1000.0,Not reported,1102.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.7665,Not reported,15.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.7665,Not reported,15.0
+2016,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.7665,Not reported,15.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.997,Not reported,15.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.997,Not reported,16.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.997,PAS2050,16.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.997,PAS2050,16.0
+2016,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.997,PAS2050,16.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.68,PAS2050,8.6
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.68,Not reported,8.6
+2016,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.88,Not reported,8.6
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.68,Not reported,7.7
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.68,Not reported,7.7
+2016,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.88,Not reported,7.7
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.997,Not reported,15.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.997,Not reported,15.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.997,Not reported,16.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.997,Not reported,16.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.68,Not reported,16.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.68,Not reported,16.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.7665,Not reported,16.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.7665,Not reported,16.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.7665,Not reported,16.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.7665,Not reported,16.0
+2014,No,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.7665,Not reported,15.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.7665,Not reported,16.0
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",16.03449,ISO,1616.172
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",15.898413,ISO,1523.19
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",31.365912,ISO,2358.38
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",16.03449,ISO,1524.56
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",16.66952,ISO,1617.69
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",18.37049,ISO,1978.08
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",17.576704,ISO,1957.73
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",27.4877,ISO,2106.94
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",27.44234,ISO,2005.36
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",27.44234,ISO,2387.57
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",27.75985,ISO,2744.39
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",27.44234,ISO,2747.47
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",22.45282,ISO,1140.41
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",31.365912,ISO,3236.35
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",23.019813,ISO,1498.6
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",25.4012,ISO,1678.97
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",28.03201,ISO,2132.34
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",57.1526,ISO,2923.11
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",57.1526,ISO,3127.248
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",118.07009,ISO,2536.12
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",118.07009,ISO,2973.37
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",118.07009,Not reported,3335.99
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",32.6587,ISO,3128.864
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",20.32094,ISO,1968.62
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",20.50238,ISO,3143.478
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",20.91061,ISO,3024.602
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",23.700201,ISO,2597.12
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",15.807694,ISO,1504.51
+2014,No,USA,Computers & Peripherals,"Computer, IT & telecom",15.807694,ISO,1490.36
+2014,No,South Korea,Chemicals,Chemicals,1000.0,GHGP,5846.0
+2015,No,South Korea,Not used for 2015 reporting,Chemicals,1000.0,GHGP,10245.0
+2013,No,South Korea,Chemicals,Chemicals,1000.0,GHGP,3197.1
+2014,No,South Korea,Chemicals,Chemicals,1000.0,GHGP,3113.0
+2015,No,South Korea,Not used for 2015 reporting,Chemicals,1000.0,GHGP,6309.0
+2016,No,South Korea,Chemicals,Chemicals,1000.0,GHGP,4286.0
+2015,No,South Korea,Not used for 2015 reporting,Chemicals,1000.0,GHGP,876.0
+2016,No,South Korea,Chemicals,Chemicals,1000.0,GHGP,396.0
+2016,No,South Korea,Chemicals,Chemicals,1000.0,GHGP,1088.0
+2016,No,South Korea,Chemicals,Chemicals,1000.0,GHGP,10607.0
+2013,Yes,South Korea,Household Durables,"Home durables, textiles, & equipment",0.1471,ISO,7.0
+2015,Yes,Switzerland,Not used for 2015 reporting,"Computer, IT & telecom",0.136,Not reported,4.32
+2013,Yes,United Kingdom,Food Products,Food & Beverage,1000.0,PAS2050,650.0
+2014,No,United Kingdom,Food Products,Food & Beverage,1000.0,PAS2050,650.0
+2016,No,United Kingdom,Beverages,Food & Beverage,1000.0,PAS2050,650.0
+2013,No,Brazil,Metals & Mining,Construction & commercial materials,1500.0,GHGP,1750.0
+2016,Yes,Taiwan,Semiconductors & Semiconductor Equipment,"Computer, IT & telecom",0.1,GHGP,1.719
+2013,No,USA,Software,"Computer, IT & telecom",0.0907185,GHGP,1.28
+2014,Yes,USA,Software,"Computer, IT & telecom",0.0907185,GHGP,1.28
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",0.0907185,GHGP,1.28
+2013,Yes,USA,Software,"Computer, IT & telecom",0.0085,GHGP,2.285
+2014,Yes,USA,Software,"Computer, IT & telecom",0.0085,GHGP,2.29
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",0.0085,GHGP,2.29
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",0.181437,GHGP,1.67
+2016,No,Spain,Paper & Forest Products,Construction & commercial materials,1.0,GHGP,3.0
+2013,No,United Kingdom,Commercial Services & Supplies,"Home durables, textiles, & equipment",2.32,ISO,320.0
+2013,No,United Kingdom,Commercial Services & Supplies,"Home durables, textiles, & equipment",4.2,ISO,20.0
+2017,Yes,Japan,Chemicals,Chemicals,500.0,Not reported,200.0
+2017,Yes,Japan,Chemicals,Chemicals,20.0,Not reported,71.0
+2017,Yes,Japan,Chemicals,Chemicals,20.0,Not reported,4.0
+2017,Yes,Japan,Chemicals,Chemicals,9.0,Not reported,8.0
+2017,Yes,Japan,Chemicals,Chemicals,25.0,Not reported,42.0
+2017,No,Japan,Chemicals,Chemicals,17736.0,Not reported,6469.0
+2017,Yes,Japan,Chemicals,Chemicals,160.0,Not reported,139.0
+2017,Yes,Japan,Chemicals,Chemicals,12000.0,Not reported,99075.0
+2017,No,Japan,Aerospace & Defense,Comm. equipm. & capital goods,20.0,WBCSD,5.6724
+2013,No,USA,Beverages,Food & Beverage,100.0,ISO,31.37
+2013,No,USA,Beverages,Food & Beverage,12.029,ISO,3.02
+2014,No,USA,Beverages,Food & Beverage,12.029,Not reported,3.07
+2013,No,USA,Beverages,Food & Beverage,15.53,ISO,2.06
+2014,No,USA,Beverages,Food & Beverage,15.53,ISO,2.0519
+2014,Yes,USA,Beverages,Food & Beverage,13.67,ISO,3.732
+2015,Yes,Japan,Not used for 2015 reporting,"Computer, IT & telecom",19.28,ISO,1600.0
+2015,No,Japan,Not used for 2015 reporting,"Computer, IT & telecom",0.816,ISO,56.0
+2015,Yes,Japan,Not used for 2015 reporting,"Computer, IT & telecom",19.28,ISO,10273.0
+2013,Yes,Switzerland,Food Products,Food & Beverage,0.1,French PEF,0.07
+2014,No,Switzerland,Food Products,Food & Beverage,0.1,ISO,0.032
+2015,No,Switzerland,Not used for 2015 reporting,Food & Beverage,0.1,ISO,0.032
+2016,Yes,Switzerland,Beverages,Food & Beverage,0.12,ISO,0.052
+2013,Yes,Switzerland,Food Products,Food & Beverage,0.54167,ISO,0.1405
+2014,Yes,Switzerland,Food Products,Food & Beverage,0.54167,ISO,0.1405
+2015,Yes,Switzerland,Not used for 2015 reporting,Food & Beverage,0.54167,ISO,0.1405
+2016,Yes,Switzerland,Beverages,Food & Beverage,0.54167,Not reported,0.1405
+2013,Yes,Switzerland,Food Products,Food & Beverage,0.02,ISO,0.184
+2013,Yes,Switzerland,Food Products,Food & Beverage,0.02,ISO,0.143
+2013,Yes,Switzerland,Food Products,Food & Beverage,0.02,ISO,0.125
+2013,Yes,Finland,Communications Equipment,"Computer, IT & telecom",0.218,ISO,12.0
+2014,Yes,Finland,Communications Equipment,"Computer, IT & telecom",0.218,ISO,12.0
+2013,Yes,Finland,Communications Equipment,"Computer, IT & telecom",0.142,ISO,16.0
+2013,Yes,Finland,Communications Equipment,"Computer, IT & telecom",0.085,ISO,8.0
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",1.06,GHGP,7.5
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",1.34,GHGP,86.2
+2014,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.5448,GHGP,28.2
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.45,GHGP,9.0
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.42,GHGP,1.617
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.25,GHGP,0.069
+2014,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.112,GHGP,8.96
+2014,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.0028,Not reported,0.145
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.034,GHGP,3.3
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.034,GHGP,1.1
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.034,GHGP,0.6
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.25,GHGP,28.2
+2017,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",1.06,GHGP,7.5
+2013,Yes,Japan,Gas Utilities,Comm. equipm. & capital goods,1.062,Not reported,60.58
+2015,Yes,Japan,Not used for 2015 reporting,Comm. equipm. & capital goods,1.062,Not reported,60.58
+2016,Yes,Japan,Gas Utilities,Comm. equipm. & capital goods,1.062,GHGP,60.64
+2013,No,USA,Beverages,Food & Beverage,0.0325,GHGP,0.08
+2014,No,USA,Beverages,Food & Beverage,0.0325,GHGP,0.08
+2015,No,USA,Not used for 2015 reporting,Food & Beverage,0.0325,GHGP,0.08
+2013,No,USA,Beverages,Food & Beverage,0.05,GHGP,0.12
+2014,No,USA,Beverages,Food & Beverage,0.05,GHGP,0.12
+2015,No,USA,Not used for 2015 reporting,Food & Beverage,0.05,GHGP,0.12
+2013,No,USA,Beverages,Food & Beverage,0.04,GHGP,0.07
+2014,No,USA,Beverages,Food & Beverage,0.04,GHGP,0.07
+2015,No,USA,Not used for 2015 reporting,Food & Beverage,0.04,GHGP,0.07
+2013,No,USA,Beverages,Food & Beverage,0.324,GHGP,0.65
+2014,No,USA,Beverages,Food & Beverage,0.324,GHGP,0.65
+2015,No,USA,Not used for 2015 reporting,Food & Beverage,0.324,GHGP,0.65
+2013,No,Taiwan,Computers & Peripherals,"Computer, IT & telecom",0.0907185,Not reported,25.5
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",1.8,PAS2050,244.09
+2013,No,China,Computers & Peripherals,"Computer, IT & telecom",0.0907185,Not reported,1.62
+2014,No,China,Computers & Peripherals,"Computer, IT & telecom",0.0907185,Not reported,12.0
+2014,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",6.3,PAS2050,33.31
+2014,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",2.8,PAS2050,88.96
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",2.4,PAS2050,70.02
+2014,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",0.31,PAS2050,19.38
+2015,Yes,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",7.4,PAS2050,66.19
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",5.8,PAS2050,74.83
+2015,Yes,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",3.4,PAS2050,83.18
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",4.4,PAS2050,99.68
+2015,Yes,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",0.35,PAS2050,53.36
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.35,PAS2050,16.21
+2015,Yes,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",8.2,PAS2050,69.12
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",5.8,PAS2050,24.04
+2015,Yes,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",14.2,PAS2050,146.41
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",7.0,PAS2050,66.16
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",7.5,PAS2050,182.927
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",0.11,PAS2050,18.756
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",0.8,PAS2050,25.517
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",1.4,PAS2050,20.886
+2014,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",11.0,PAS2050,105.56
+2014,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",23.0,PAS2050,174.46
+2014,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",0.7,PAS2050,25.72
+2014,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",0.162,PAS2050,6.13
+2013,Yes,Canada,Wireless Telecommunication Services,"Computer, IT & telecom",0.13,ISO,52.2
+2014,Yes,Canada,Communications Equipment,"Computer, IT & telecom",0.1375,ISO,57.1
+2015,Yes,Canada,Not used for 2015 reporting,"Computer, IT & telecom",0.205,ISO,65.1
+2016,Yes,Canada,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.205,ISO,65.1
+2016,Yes,Canada,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.178,ISO,62.8
+2016,Yes,Canada,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.192,ISO,79.9
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",33.0,ISO,1640.0
+2013,No,Japan,Office Electronics,"Computer, IT & telecom",214.0,ISO,2400.0
+2013,No,Japan,Office Electronics,"Computer, IT & telecom",130.0,Not reported,2100.0
+2013,No,Japan,Office Electronics,"Computer, IT & telecom",73.0,Not reported,1297.0
+2013,No,Japan,Office Electronics,"Computer, IT & telecom",97.0,Not reported,3210.0
+2013,No,Japan,Office Electronics,"Computer, IT & telecom",550.0,Not reported,7368.0
+2014,No,Japan,Office Electronics,"Computer, IT & telecom",99.9,ISO,1940.0
+2014,No,Japan,Office Electronics,"Computer, IT & telecom",241.0,Not reported,6140.0
+2015,No,Japan,Not used for 2015 reporting,"Computer, IT & telecom",74.0,ISO,1330.0
+2015,No,Japan,Not used for 2015 reporting,"Computer, IT & telecom",600.0,Not reported,8080.0
+2013,No,South Africa,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,968.0
+2014,Yes,South Africa,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,1031.6
+2013,No,South Africa,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,949.0
+2014,Yes,South Africa,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,1042.8
+2013,No,South Africa,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,1033.0
+2014,Yes,South Africa,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,1060.9
+2013,No,South Africa,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,973.0
+2014,Yes,South Africa,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,1082.6
+2013,Yes,France,Electrical Equipment,Comm. equipm. & capital goods,0.21,ISO,19.1
+2014,Yes,France,Electrical Equipment,Comm. equipm. & capital goods,0.21,ISO,19.1
+2015,Yes,France,Not used for 2015 reporting,Comm. equipm. & capital goods,0.21,ISO,19.1
+2016,Yes,France,Electrical Equipment,Comm. equipm. & capital goods,0.21,ISO,61.23
+2013,Yes,Ireland,Containers & Packaging,Packaging for consumer goods,1000.0,FEFCO,746.0
+2014,Yes,Ireland,Containers & Packaging,Packaging for consumer goods,1000.0,PAS2050,746.0
+2015,Yes,Ireland,Not used for 2015 reporting,Packaging for consumer goods,1000.0,PAS2050,746.0
+2013,Yes,Ireland,Containers & Packaging,Packaging for consumer goods,1000.0,PAS2050,964.0
+2014,Yes,Ireland,Containers & Packaging,Packaging for consumer goods,1000.0,PAS2050,964.0
+2015,Yes,Ireland,Not used for 2015 reporting,Packaging for consumer goods,1000.0,PAS2050,964.0
+2014,Yes,Belgium,Chemicals,Chemicals,1.0,GHGP,1.32
+2014,Yes,Belgium,Chemicals,Chemicals,1.0,GHGP,1.1
+2015,Yes,Belgium,Not used for 2015 reporting,Chemicals,1.0,GHGP,1.01
+2016,No,Belgium,Chemicals,Chemicals,1.0,ISO,1.01
+2015,Yes,Belgium,Not used for 2015 reporting,Chemicals,1.0,GHGP,1.29
+2016,No,Belgium,Chemicals,Chemicals,1.0,ISO,1.29
+2015,Yes,Belgium,Not used for 2015 reporting,Chemicals,1.0,GHGP,1.19
+2016,No,Belgium,Chemicals,Chemicals,1.0,ISO,1.19
+2014,Yes,USA,Specialty Retail,"Home durables, textiles, & equipment",0.8172,ISO,2.526
+2015,Yes,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.8172,ISO,2.526
+2014,Yes,USA,Specialty Retail,"Home durables, textiles, & equipment",0.8172,ISO,8.38
+2015,Yes,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",0.8172,ISO,8.38
+2015,No,USA,Not used for 2015 reporting,Comm. equipm. & capital goods,1.82,Not reported,55.67
+2016,No,USA,Electrical Equipment,Comm. equipm. & capital goods,1.82,Not reported,55.67
+2015,No,USA,Not used for 2015 reporting,Comm. equipm. & capital goods,2.7,Not reported,88.13
+2016,No,USA,Electrical Equipment,Comm. equipm. & capital goods,2.7,Not reported,88.13
+2016,Yes,USA,Electrical Equipment,Comm. equipm. & capital goods,0.5,Traci 2.1,2.15
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",13.05,ISO,23.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",51.7,ISO,150.0
+2013,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",19.773,ILCD Handbook,120.0
+2014,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",19.773,ILCD Handbook,120.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",6.165,ISO,29.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",32.916,ISO,94.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",154.804,ISO,380.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",35.331,ISO,71.8
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",35.38,ISO,170.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",35.38,ISO,180.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",35.298,ISO,98.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",37.0,ISO,51.5
+2013,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",44.706,ILCD Handbook,160.0
+2014,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",44.706,ILCD Handbook,160.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",26.183,ISO,87.8
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",25.0,ISO,120.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",38.337,ISO,39.6
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",31.0,ISO,110.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",40.9,ISO,95.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",14.963,ISO,60.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",23.623,ISO,90.9
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",5.17,ISO,56.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",17.7,ISO,101.0
+2013,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",52.221,ILCD Handbook,110.8
+2014,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",52.221,ILCD Handbook,110.8
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",67.323,ISO,52.6
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",47.334,ISO,49.7
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",69.78,ISO,103.8
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",5.057,ISO,18.8
+2013,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",17.252,ILCD Handbook,85.5
+2014,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",17.252,ILCD Handbook,85.5
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",21.77,ISO,100.2
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",44.706,ISO,160.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",13.01,ISO,111.2
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",34.8,ISO,110.0
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",42.1,ISO,100.0
+2015,No,Switzerland,Not used for 2015 reporting,Chemicals,1.0,PAS2050,2.8
+2015,No,Switzerland,Not used for 2015 reporting,Chemicals,1.0,PAS2050,3.72
+2015,No,Switzerland,Not used for 2015 reporting,Chemicals,1.0,PAS2050,4.82
+2015,No,Switzerland,Not used for 2015 reporting,Chemicals,1.0,PAS2050,1.02
+2013,No,India,Chemicals,Chemicals,1000.0,GHGP,1282.0
+2014,No,India,Chemicals,Chemicals,1000.0,GHGP,1057.0
+2015,No,India,Not used for 2015 reporting,Chemicals,1000.0,ISO,1006.0
+2017,No,India,Chemicals,Chemicals,1000.0,ISO,870.0
+2013,No,India,Chemicals,Chemicals,1000.0,GHGP,701.0
+2014,No,India,Chemicals,Chemicals,1000.0,Not reported,840.0
+2015,No,India,Not used for 2015 reporting,Chemicals,1000.0,Not reported,764.0
+2015,No,India,Not used for 2015 reporting,Chemicals,1000.0,Not reported,504.0
+2015,No,India,Not used for 2015 reporting,Chemicals,1000.0,Not reported,701.0
+2015,No,India,Not used for 2015 reporting,Chemicals,1000.0,Not reported,1083.0
+2014,Yes,India,Metals & Mining,Construction & commercial materials,1000.0,Not reported,2425.0
+2015,Yes,India,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,2615.0
+2014,Yes,India,Metals & Mining,Construction & commercial materials,1000.0,Not reported,2549.0
+2015,Yes,India,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,2746.0
+2014,Yes,India,Metals & Mining,Construction & commercial materials,1000.0,Not reported,2611.0
+2015,Yes,India,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,2820.0
+2013,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.009,ISO,0.017
+2014,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.009,ISO,0.017
+2015,Yes,Sweden,Not used for 2015 reporting,Packaging for consumer goods,0.009,ISO,0.017
+2016,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.009,ISO,0.016
+2013,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.01,ISO,0.018
+2014,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.01,ISO,0.018
+2015,Yes,Sweden,Not used for 2015 reporting,Packaging for consumer goods,0.01,ISO,0.018
+2016,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.01,ISO,0.018
+2013,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.01,ISO,0.018
+2014,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.01,ISO,0.018
+2015,Yes,Sweden,Not used for 2015 reporting,Packaging for consumer goods,0.01,ISO,0.018
+2016,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.01,ISO,0.017
+2013,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.028,ISO,0.046
+2014,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.028,ISO,0.046
+2015,Yes,Sweden,Not used for 2015 reporting,Packaging for consumer goods,0.028,ISO,0.046
+2016,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,0.028,ISO,0.042
+2013,Yes,USA,Media,"Computer, IT & telecom",14.6,GHGP,9438.0
+2014,Yes,USA,Media,"Computer, IT & telecom",14.6,GHGP,9438.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",14.6,GHGP,1766.0
+2016,Yes,USA,Media,"Computer, IT & telecom",14.6,GHGP,1766.0
+2013,Yes,USA,Media,"Computer, IT & telecom",1.08,GHGP,93.68
+2014,Yes,USA,Media,"Computer, IT & telecom",1.08,GHGP,93.68
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",1.08,GHGP,40.0
+2016,Yes,USA,Media,"Computer, IT & telecom",1.08,GHGP,40.0
+2013,Yes,USA,Media,"Computer, IT & telecom",0.029,GHGP,2.18
+2014,Yes,USA,Media,"Computer, IT & telecom",0.029,GHGP,2.18
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",0.029,GHGP,2.0
+2016,Yes,USA,Media,"Computer, IT & telecom",0.029,GHGP,2.0
+2013,Yes,France,Media,"Computer, IT & telecom",0.599,ISO,111.0
+2014,Yes,France,Media,"Computer, IT & telecom",0.599,ISO,111.0
+2015,Yes,France,Not used for 2015 reporting,"Computer, IT & telecom",0.599,ISO,111.0
+2017,Yes,Japan,Commercial Services & Supplies,"Home durables, textiles, & equipment",13.44,Japan CFP,377.6
+2017,Yes,Japan,Commercial Services & Supplies,"Home durables, textiles, & equipment",13.44,Japan CFP,363.0
+2016,Yes,Sweden,Electrical Equipment,Comm. equipm. & capital goods,370.69,ISO,1408.62
+2013,Yes,United Kingdom,Building Products,Comm. equipm. & capital goods,1.0,Not reported,2.52
+2013,Yes,Germany,Automobiles,Automobiles & components,993.0,ISO,21725.0
+2014,No,Germany,Automobiles,Automobiles & components,993.0,Not reported,21725.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,993.0,ISO,21725.0
+2016,No,Germany,Auto Components,Automobiles & components,993.0,ISO,21725.0
+2013,Yes,Germany,Automobiles,Automobiles & components,1358.056,ISO,22218.0
+2014,No,Germany,Automobiles,Automobiles & components,1394.343,ISO,22218.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1394.343,ISO,22218.0
+2016,No,Germany,Auto Components,Automobiles & components,1358.056,ISO,22218.0
+2013,Yes,Germany,Automobiles,Automobiles & components,1539.039,ISO,28011.0
+2014,No,Germany,Automobiles,Automobiles & components,1539.039,ISO,28011.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1539.039,ISO,28011.0
+2016,No,Germany,Auto Components,Automobiles & components,1539.039,ISO,28011.0
+2013,Yes,Germany,Automobiles,Automobiles & components,1460.114,ISO,30647.0
+2014,No,Germany,Automobiles,Automobiles & components,1539.039,Not reported,34694.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1539.039,Not reported,33683.0
+2014,No,Germany,Automobiles,Automobiles & components,929.8644,ISO,21488.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,929.8644,ISO,21488.0
+2016,No,Germany,Auto Components,Automobiles & components,929.8644,ISO,21488.0
+2014,No,Germany,Automobiles,Automobiles & components,1895.109,ISO,37094.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1895.109,ISO,37094.0
+2016,No,Germany,Auto Components,Automobiles & components,1895.109,ISO,37094.0
+2014,No,Germany,Automobiles,Automobiles & components,1128.0,ISO,28608.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1128.0,ISO,28608.0
+2016,No,Germany,Auto Components,Automobiles & components,1128.0,ISO,28608.0
+2016,No,Germany,Auto Components,Automobiles & components,1185.0,ISO,7550.0
+2013,Yes,USA,Life Sciences Tools & Services,Comm. equipm. & capital goods,59.0,GHGP,15196.6
+2014,Yes,USA,Life Sciences Tools & Services,Comm. equipm. & capital goods,59.0,GHGP,40215.0
+2013,Yes,USA,Life Sciences Tools & Services,Comm. equipm. & capital goods,25.9,GHGP,17074.4
+2013,Yes,Brazil,Machinery,Comm. equipm. & capital goods,90.0,ISO,53057.5
+2014,Yes,Brazil,Machinery,Comm. equipm. & capital goods,90.0,GHGP,87589.36467
+2015,Yes,Brazil,Not used for 2015 reporting,Comm. equipm. & capital goods,90.0,GHGP,20007.62
+2013,Yes,USA,Office Electronics,"Computer, IT & telecom",25.5,ISO,584.0
+2014,Yes,USA,Office Electronics,"Computer, IT & telecom",25.5,ISO,584.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",25.5,ISO,584.0
+2016,Yes,USA,Software,"Computer, IT & telecom",25.5,ISO,584.0
+2013,Yes,USA,Office Electronics,"Computer, IT & telecom",46.308,ISO,2445.0
+2014,Yes,USA,Office Electronics,"Computer, IT & telecom",46.308,ISO,2445.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",46.308,ISO,2445.0
+2016,Yes,USA,Software,"Computer, IT & telecom",46.308,ISO,2445.0
+2013,Yes,USA,Office Electronics,"Computer, IT & telecom",368.8,ISO,7090.0
+2014,Yes,USA,Office Electronics,"Computer, IT & telecom",368.8,ISO,7090.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",368.8,ISO,7090.0
+2016,Yes,USA,Software,"Computer, IT & telecom",368.8,ISO,7090.0
+2013,No,USA,Office Electronics,"Computer, IT & telecom",34.0194,ISO,2110.0
+2014,Yes,USA,Office Electronics,"Computer, IT & telecom",34.0194,ISO,2011.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",34.0194,ISO,2011.0
+2016,Yes,USA,Software,"Computer, IT & telecom",34.0194,ISO,2011.0
+2014,Yes,USA,Office Electronics,"Computer, IT & telecom",44.0,ISO,2000.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",44.0,ISO,2000.0
+2016,Yes,USA,Software,"Computer, IT & telecom",44.0,ISO,2000.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",158.5,ISO,4216.0
+2016,Yes,USA,Software,"Computer, IT & telecom",158.5,ISO,4216.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",137.2,ISO,1300.0
+2016,Yes,USA,Software,"Computer, IT & telecom",137.2,ISO,1300.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",137.2,ISO,1500.0
+2016,Yes,USA,Software,"Computer, IT & telecom",137.2,ISO,1500.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",137.2,ISO,1700.0
+2016,Yes,USA,Software,"Computer, IT & telecom",137.2,ISO,1700.0
+2015,Yes,Japan,Not used for 2015 reporting,"Computer, IT & telecom",3.6,ISO,42.2
+2015,Yes,Japan,Not used for 2015 reporting,"Computer, IT & telecom",0.11,ISO,13.8
+2015,Yes,Japan,Not used for 2015 reporting,"Computer, IT & telecom",0.11,ISO,2.5
+2015,Yes,Japan,Not used for 2015 reporting,"Computer, IT & telecom",0.24,ISO,8.3
+2014,Yes,Japan,Auto Components,Automobiles & components,8.7,Not reported,256.5
+2015,Yes,Japan,Not used for 2015 reporting,Automobiles & components,8.7,Not reported,287.68
+2014,No,Japan,Auto Components,Automobiles & components,160.0,Not reported,1881.0
+2015,No,Japan,Not used for 2015 reporting,Automobiles & components,160.0,Not reported,1734.0
+2015,No,Australia,Not used for 2015 reporting,Comm. equipm. & capital goods,31.8,ISO,40.79
+2015,No,Australia,Not used for 2015 reporting,Comm. equipm. & capital goods,31.8,ISO,35.16
+2015,No,Australia,Not used for 2015 reporting,Comm. equipm. & capital goods,2.5,ISO,20.04
+2015,No,Australia,Not used for 2015 reporting,Comm. equipm. & capital goods,15.9,ISO,18.76
+2015,No,Australia,Not used for 2015 reporting,Comm. equipm. & capital goods,2.4062,ISO,89.567
+2015,No,Australia,Not used for 2015 reporting,Comm. equipm. & capital goods,2.4062,ISO,34.15
+2013,Yes,Brazil,Chemicals,Chemicals,1.0,PAS2050,1.32
+2014,No,Brazil,Chemicals,Chemicals,1.0,PAS2050,1.32
+2015,No,Brazil,Not used for 2015 reporting,Chemicals,1.0,PAS2050,1.32
+2016,No,Brazil,Chemicals,Chemicals,1000.0,PAS2050,1320.0
+2013,Yes,Brazil,Chemicals,Chemicals,1.0,PAS2050,1.33
+2014,No,Brazil,Chemicals,Chemicals,1.0,PAS2050,1.33
+2015,No,Brazil,Not used for 2015 reporting,Chemicals,1.0,PAS2050,1.33
+2016,No,Brazil,Chemicals,Chemicals,1000.0,PAS2050,1330.0
+2013,Yes,Brazil,Chemicals,Chemicals,1.0,PAS2050,1.77
+2014,No,Brazil,Chemicals,Chemicals,1.0,PAS2050,1.77
+2015,No,Brazil,Not used for 2015 reporting,Chemicals,1.0,Not reported,1.77
+2016,No,Brazil,Chemicals,Chemicals,1000.0,PAS2050,1770.0
+2013,No,Taiwan,Computers & Peripherals,"Computer, IT & telecom",2.35868,PAS2050,8.8
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1600.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,10202.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1330.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,10202.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,10202.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,10202.0
+2016,No,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.25,GHGP,5.3
+2016,No,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",8.05,GHGP,5.4
+2016,No,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",8.05,GHGP,5.3
+2016,No,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",2.95,GHGP,5.4
+2016,No,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",19.97,GHGP,2.4
+2016,No,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.35,GHGP,5.3
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,3248.0
+2016,No,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.35,GHGP,3.6
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1600.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1600.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1600.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1600.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1600.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1600.0
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",1000.0,GHGP,1600.0
+2016,Yes,Japan,Auto Components,Automobiles & components,9.07185,JRM Assoc.,118.0
+2014,Yes,South Korea,Household Durables,"Home durables, textiles, & equipment",7.2,Korea CL Guide,126.0
+2013,No,Chile,Paper & Forest Products,Construction & commercial materials,1000.0,GHGP,549.2
+2014,Yes,Chile,Paper & Forest Products,Construction & commercial materials,1000.0,GHGP,554.94
+2015,Yes,Chile,Not used for 2015 reporting,Construction & commercial materials,1000.0,GHGP,451.46
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,918.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,918.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,597.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,782.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,918.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,918.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,900.0
+2016,No,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,807.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,767.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,369.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,804.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,534.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,767.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,766.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,482.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,804.0
+2016,No,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,767.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,767.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,811.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,534.0
+2016,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Paper Profile,776.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,478.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,811.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,359.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,534.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,359.0
+2015,Yes,Finland,Not used for 2015 reporting,Construction & commercial materials,1000.0,Not reported,534.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,398.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,781.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,792.0
+2013,Yes,Finland,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,781.0
+2014,No,USA,Containers & Packaging,Packaging for consumer goods,0.416,ISO,0.153
+2014,No,USA,Containers & Packaging,Packaging for consumer goods,0.416,ISO,0.11
+2014,No,USA,Containers & Packaging,Packaging for consumer goods,0.416,ISO,0.117
+2014,No,USA,Containers & Packaging,Packaging for consumer goods,0.416,ISO,0.171
+2014,Yes,Sweden,Containers & Packaging,Packaging for consumer goods,1000.0,ISO,407.0
+2015,Yes,Sweden,Not used for 2015 reporting,Packaging for consumer goods,1000.0,ISO,407.0
+2013,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.28,ISO,12.0
+2014,Yes,Switzerland,Beverages,Food & Beverage,1.093,GHGP,0.1673
+2015,Yes,Switzerland,Not used for 2015 reporting,Food & Beverage,1.093,GHGP,0.158
+2016,Yes,Switzerland,Beverages,Food & Beverage,1.093,GHGP,0.147
+2015,No,Spain,Not used for 2015 reporting,Comm. equipm. & capital goods,361000.0,ISO,1251625.0
+2015,No,Spain,Not used for 2015 reporting,Comm. equipm. & capital goods,400000.0,ISO,1532608.0
+2015,No,Spain,Not used for 2015 reporting,Comm. equipm. & capital goods,600000.0,ISO,3718044.0
+2015,No,Spain,Not used for 2015 reporting,Comm. equipm. & capital goods,600000.0,Not reported,3276187.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",7.1,MIT PAIA,300.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",8.3,MIT PAIA,380.0
+2013,No,USA,Computers & Peripherals,"Computer, IT & telecom",52.5,ISO,16100.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",10.1,MIT PAIA,460.0
+2013,No,USA,Computers & Peripherals,"Computer, IT & telecom",7.2,ISO,231.4
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",10.61,ISO,262.1
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",3.1,MIT PAIA,420.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",7.6,MIT PAIA,500.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",11.2,MIT PAIA,580.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",1.61,MIT PAIA,230.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",2.25,MIT PAIA,290.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",3.0,MIT PAIA,370.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",70.2,TRACI 2.1,54.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",88.7,TRACI 2.1,77.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",23.59,TRACI 2.1,98.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",23.59,TRACI 2.1,98.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",107.0,TRACI 2.1,43.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",19.323,TRACI 2.1,87.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",9.53,TRACI 2.1,26.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",9.53,TRACI 2.1,26.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",24.95,TRACI 2.1,91.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",24.95,TRACI 2.1,98.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",19.05,TRACI 2.1,105.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",19.05,TRACI 2.1,105.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",17.24,TRACI 2.1,82.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",17.24,TRACI 2.1,82.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",7.71,TRACI 2.1,48.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",7.71,TRACI 2.1,48.0
+2015,No,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",24.95,TRACI 2.1,72.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",24.95,TRACI 2.1,72.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",34.93,TRACI 2.1,102.0
+2016,No,USA,Household Durables,"Home durables, textiles, & equipment",99.5,TRACI 2.1,76.0
+2014,Yes,United Kingdom,Diversified Telecommunication Services,"Computer, IT & telecom",1.4,GHGP,4.7
+2015,Yes,United Kingdom,Not used for 2015 reporting,"Computer, IT & telecom",1.4,GHGP,4.7
+2014,Yes,United Kingdom,Diversified Telecommunication Services,"Computer, IT & telecom",1.1,Not reported,57.0
+2015,Yes,United Kingdom,Not used for 2015 reporting,"Computer, IT & telecom",1.1,Not reported,57.0
+2014,Yes,United Kingdom,Diversified Telecommunication Services,"Computer, IT & telecom",1.2,Not reported,33.0
+2015,Yes,United Kingdom,Not used for 2015 reporting,"Computer, IT & telecom",1.2,Not reported,33.0
+2014,Yes,United Kingdom,Diversified Telecommunication Services,"Computer, IT & telecom",1.7,Not reported,88.0
+2015,Yes,United Kingdom,Not used for 2015 reporting,"Computer, IT & telecom",1.7,Not reported,88.0
+2014,No,USA,Chemicals,Chemicals,1000.0,GHGP,2280.0
+2014,Yes,Japan,Office Electronics,"Computer, IT & telecom",71.0,M. Env. Japan,39.0
+2014,Yes,Japan,Office Electronics,"Computer, IT & telecom",30.98,M. Env. Japan,57.0
+2014,Yes,Japan,Office Electronics,"Computer, IT & telecom",0.553,M. Env. Japan,13.0
+2014,Yes,Japan,Office Electronics,"Computer, IT & telecom",1.53,M. Env. Japan,19.0
+2013,No,USA,Food Products,Food & Beverage,1.0,ISO,1.3
+2014,No,USA,Food Products,Food & Beverage,1.0,ISO,1.3
+2013,Yes,United Kingdom,Trading Companies & Distributors,Comm. equipm. & capital goods,13.0,PAS2050,31.33
+2014,Yes,United Kingdom,Trading Companies & Distributors,Comm. equipm. & capital goods,13.0,PAS2050,30.05
+2013,Yes,United Kingdom,Trading Companies & Distributors,Comm. equipm. & capital goods,41.0,PAS2050,94.08
+2013,Yes,United Kingdom,Trading Companies & Distributors,Comm. equipm. & capital goods,23.0,PAS2050,44.27
+2014,Yes,United Kingdom,Trading Companies & Distributors,Comm. equipm. & capital goods,23.0,PAS2050,33.44
+2014,Yes,United Kingdom,Trading Companies & Distributors,Comm. equipm. & capital goods,41.0,PAS2050,62.63
+2014,Yes,United Kingdom,Trading Companies & Distributors,Comm. equipm. & capital goods,7.0,PAS2050,57.07
+2016,No,USA,Food Products,Food & Beverage,907.19,GHGP,187.161
+2013,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",0.267906667,ISO,14.6
+2016,No,Lithuania,Containers & Packaging,Packaging for consumer goods,0.03,GHGP,0.0108
+2013,Yes,Japan,Household Durables,"Home durables, textiles, & equipment",45.0,EcoLeaf,2344.0
+2014,Yes,Japan,Household Durables,"Home durables, textiles, & equipment",45.0,ISO,2344.0
+2016,No,Spain,"Oil, Gas & Consumable Fuels",Chemicals,1000.0,Not reported,6109.0
+2016,No,Spain,"Oil, Gas & Consumable Fuels",Chemicals,1000.0,Not reported,890.0
+2016,No,USA,Electrical Equipment,Comm. equipm. & capital goods,18.6,ISO,281.0
+2013,Yes,USA,Household Durables,"Home durables, textiles, & equipment",0.127,Not reported,29.96
+2013,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",14.96,PAS2050,145.0
+2013,Yes,Japan,Machinery,Comm. equipm. & capital goods,342.462,EcoLeaf,3139.9
+2014,Yes,Japan,Machinery,Comm. equipm. & capital goods,342.462,EcoLeaf,2403.2
+2015,Yes,Japan,Not used for 2015 reporting,Comm. equipm. & capital goods,342.462,EcoLeaf,2268.1
+2015,No,Spain,Not used for 2015 reporting,Chemicals,1000.0,GHGP,180.0
+2016,No,Spain,Chemicals,Chemicals,1000.0,GHGP,140.0
+2013,Yes,USA,Communications Equipment,"Computer, IT & telecom",3.5,ISO,278.0
+2013,Yes,USA,Communications Equipment,"Computer, IT & telecom",2.0,ISO,1473.0
+2014,Yes,USA,Food & Staples Retailing,Food & Beverage,454.0,Not reported,164.0
+2015,Yes,USA,Not used for 2015 reporting,Food & Beverage,454.0,Not reported,179.0
+2016,No,USA,Beverages,Food & Beverage,0.454,Not reported,0.141
+2016,Yes,South Korea,Beverages,Food & Beverage,1000.0,GHGP,24839.0
+2016,Yes,South Korea,Beverages,Food & Beverage,1000.0,GHGP,21126.0
+2016,Yes,South Korea,Beverages,Food & Beverage,1000.0,GHGP,18042.0
+2016,Yes,South Korea,Beverages,Food & Beverage,1000.0,GHGP,26836.0
+2016,Yes,South Korea,Beverages,Food & Beverage,1000.0,GHGP,3859.0
+2016,No,South Korea,Beverages,Food & Beverage,1000.0,GHGP,114.8
+2016,Yes,Germany,Tobacco,Food & Beverage,1.0,GHGP,16.884
+2013,No,Switzerland,Chemicals,Chemicals,1.0,Not reported,26.0
+2013,No,Switzerland,Chemicals,Chemicals,1.0,Not reported,26.0
+2014,No,Switzerland,Chemicals,Chemicals,1.0,Not reported,26.0
+2016,No,Switzerland,Chemicals,Chemicals,1.0,Not reported,26.0
+2016,No,Switzerland,Chemicals,Chemicals,1.0,ISO,1.85
+2016,No,Switzerland,Chemicals,Chemicals,1.0,ISO,5.0
+2016,No,Switzerland,Chemicals,Chemicals,1.0,ISO,9.0
+2016,Yes,Switzerland,Chemicals,Chemicals,0.0333,JEC/BIOGRACE,0.004
+2013,No,France,Personal Products,Packaging for consumer goods,0.1,Not reported,0.124
+2013,No,France,Personal Products,Packaging for consumer goods,0.1,Not reported,0.162
+2016,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,9.78
+2016,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,11.06
+2013,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,13.39
+2014,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,12.59
+2016,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,17.1
+2013,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,10.1
+2015,Yes,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",4.164,ISO,10.98
+2013,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,14.99
+2014,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,14.09
+2016,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,11.3
+2013,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,17.15
+2015,Yes,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",4.164,ISO,15.93
+2016,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,12.84
+2014,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,10.09
+2016,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,10.41
+2015,Yes,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",4.164,ISO,13.63
+2015,Yes,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",4.164,ISO,12.89
+2016,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,11.27
+2015,Yes,USA,Not used for 2015 reporting,"Home durables, textiles, & equipment",4.164,ISO,15.44
+2016,Yes,USA,"Textiles, Apparel & Luxury Goods","Home durables, textiles, & equipment",4.164,ISO,15.42
+2013,No,Brazil,"Oil, Gas & Consumable Fuels",Chemicals,789.0,GHGP,750.0
+2013,Yes,USA,Beverages,Food & Beverage,0.541,GHGP,0.34
+2013,Yes,USA,Beverages,Food & Beverage,0.541,GHGP,0.22
+2013,Yes,USA,Beverages,Food & Beverage,0.3,GHGP,0.17
+2013,Yes,USA,Beverages,Food & Beverage,2.0,GHGP,0.4
+2013,Yes,USA,Beverages,Food & Beverage,0.614,GHGP,0.35
+2013,Yes,USA,Beverages,Food & Beverage,0.541,GHGP,0.24
+2013,No,USA,Beverages,Food & Beverage,0.492,GHGP,0.36
+2013,Yes,USA,Beverages,Food & Beverage,0.541,GHGP,0.24
+2013,Yes,USA,Beverages,Food & Beverage,2.0,GHGP,0.5
+2013,Yes,USA,Beverages,Food & Beverage,0.3,GHGP,0.15
+2013,Yes,USA,Beverages,Food & Beverage,0.541,GHGP,0.34
+2013,Yes,USA,Beverages,Food & Beverage,0.541,GHGP,0.22
+2013,Yes,USA,Beverages,Food & Beverage,2.0,GHGP,0.4
+2013,Yes,USA,Beverages,Food & Beverage,0.3,GHGP,0.15
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",2.0,PAS2050,156.95
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",2.58,PAS2050,131.82
+2016,Yes,USA,"Oil, Gas & Consumable Fuels",Chemicals,0.00127018,GHGP,0.063
+2015,No,USA,Not used for 2015 reporting,Chemicals,1.0,Not reported,0.18
+2016,No,USA,Chemicals,Chemicals,1000.0,Not reported,120.0
+2015,No,USA,Not used for 2015 reporting,Chemicals,1.0,Not reported,0.21
+2015,No,USA,Not used for 2015 reporting,Chemicals,1.0,Not reported,0.99
+2016,No,USA,Chemicals,Chemicals,1000.0,Not reported,1153.0
+2016,No,USA,Chemicals,Chemicals,1000.0,Not reported,210.0
+2015,No,USA,Not used for 2015 reporting,Comm. equipm. & capital goods,181.0,Not reported,655.0
+2016,Yes,USA,Electrical Equipment,Comm. equipm. & capital goods,181.0,Not reported,4468.7
+2016,Yes,Italy,Food & Staples Retailing,Food & Beverage,0.19,ISO,0.546
+2014,Yes,Italy,Food & Staples Retailing,Food & Beverage,1.0,ISO,1.279
+2015,Yes,Italy,Not used for 2015 reporting,Food & Beverage,1.0,ISO,1.317
+2014,Yes,Italy,Food & Staples Retailing,Food & Beverage,1.0,ISO,0.947
+2015,Yes,Italy,Not used for 2015 reporting,Food & Beverage,1.0,ISO,0.848
+2014,Yes,Italy,Food & Staples Retailing,Food & Beverage,1.0,ISO,1.027
+2015,Yes,Italy,Not used for 2015 reporting,Food & Beverage,1.0,ISO,0.885
+2014,Yes,Italy,Food & Staples Retailing,Food & Beverage,1.0,ISO,1.67
+2015,Yes,Italy,Not used for 2015 reporting,Food & Beverage,1.0,ISO,1.701
+2014,Yes,Italy,Food & Staples Retailing,Food & Beverage,1.0,ISO,0.926
+2015,Yes,Italy,Not used for 2015 reporting,Food & Beverage,1.0,ISO,0.936
+2014,No,Italy,Food & Staples Retailing,Food & Beverage,0.14,ISO,0.181
+2015,No,Italy,Not used for 2015 reporting,Food & Beverage,0.14,ISO,0.211
+2014,No,Italy,Food & Staples Retailing,Food & Beverage,0.27,ISO,0.316
+2015,No,Italy,Not used for 2015 reporting,Food & Beverage,0.27,ISO,0.365
+2016,No,Italy,Food & Staples Retailing,Food & Beverage,0.27,ISO,0.386
+2014,No,Italy,Food & Staples Retailing,Food & Beverage,0.275,ISO,0.323
+2015,Yes,Italy,Not used for 2015 reporting,Food & Beverage,0.275,ISO,1.236
+2016,No,Italy,Food & Staples Retailing,Food & Beverage,0.275,ISO,0.34
+2016,No,Italy,Food & Staples Retailing,Food & Beverage,1.0,ISO,1.33
+2013,Yes,USA,Food Products,Food & Beverage,0.179,Not reported,0.68
+2013,Yes,USA,Food Products,Food & Beverage,0.179,Not reported,0.39
+2013,No,USA,Food Products,Food & Beverage,1000.0,PAS2050,1361.0
+2014,No,USA,Food Products,Food & Beverage,1000.0,PAS2050,1360.0
+2014,No,United Kingdom,Metals & Mining,Construction & commercial materials,1.0,ISO,1.1
+2014,No,United Kingdom,Metals & Mining,Construction & commercial materials,1.0,ISO,1.2
+2014,No,United Kingdom,Metals & Mining,Construction & commercial materials,1.0,ISO,1.05
+2017,No,Japan,Beverages,Food & Beverage,0.12,ISO,1.69
+2017,No,Japan,Beverages,Food & Beverage,0.0465,ISO,0.33
+2015,Yes,Japan,Not used for 2015 reporting,Food & Beverage,25.0,CFP Japan,130.0
+2017,Yes,Japan,Beverages,Food & Beverage,25.0,ISO,130.0
+2017,Yes,Japan,Beverages,Food & Beverage,20.0,ISO,301.0
+2017,No,Japan,Beverages,Food & Beverage,0.126,ISO,0.74
+2017,Yes,Japan,Beverages,Food & Beverage,25.0,ISO,319.0
+2017,Yes,Japan,Beverages,Food & Beverage,20.0,ISO,433.0
+2017,Yes,Japan,Beverages,Food & Beverage,20.0,ISO,585.0
+2017,Yes,Japan,Beverages,Food & Beverage,20.0,ISO,393.0
+2017,No,Japan,Beverages,Food & Beverage,0.011,ISO,0.03
+2017,No,Japan,Beverages,Food & Beverage,0.4,ISO,1.01
+2017,Yes,Japan,Beverages,Food & Beverage,20.0,ISO,58.0
+2017,No,Japan,Beverages,Food & Beverage,0.058,ISO,0.5
+2017,No,Japan,Beverages,Food & Beverage,0.12,ISO,0.58
+2017,No,Japan,Beverages,Food & Beverage,0.075,ISO,0.24
+2017,No,Japan,Beverages,Food & Beverage,0.4,ISO,1.07
+2017,No,Japan,Beverages,Food & Beverage,0.085,ISO,0.58
+2017,No,Japan,Beverages,Food & Beverage,0.25,ISO,0.2
+2017,No,Japan,Beverages,Food & Beverage,25.0,ISO,780.0
+2017,No,Japan,Beverages,Food & Beverage,0.09,ISO,0.27
+2017,No,Japan,Beverages,Food & Beverage,0.1,ISO,0.23
+2017,Yes,Japan,Beverages,Food & Beverage,12.0,ISO,155.0
+2016,No,Spain,Food Products,Food & Beverage,220.0,GHGP,155.71
+2016,No,Spain,Food Products,Food & Beverage,25.0,GHGP,12.52
+2016,No,Spain,Food Products,Food & Beverage,238.0,GHGP,155.78
+2016,No,Spain,Food Products,Food & Beverage,25.0,GHGP,16.22
+2014,No,Germany,Food Products,Food & Beverage,0.002,Not reported,0.02041
+2015,No,Germany,Food Products,Food & Beverage,0.002,Not reported,0.02041
+2015,No,South Africa,Not used for 2015 reporting,Packaging for consumer goods,1000.0,Not reported,871.0
+2013,No,USA,Electrical Equipment,Comm. equipm. & capital goods,0.03,Not reported,0.0295
+2014,No,USA,Electrical Equipment,Comm. equipm. & capital goods,0.03,EICC Tool,0.0255
+2015,No,USA,Not used for 2015 reporting,Comm. equipm. & capital goods,0.03,EICC Tool,0.023
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",59.02,ISO,39.5
+2016,No,USA,Commercial Services & Supplies,"Home durables, textiles, & equipment",16.78,ISO,34.0
+2013,Yes,Japan,Electrical Equipment,Comm. equipm. & capital goods,17.46331,ISO,3653.0
+2014,Yes,Japan,Building Products,Comm. equipm. & capital goods,17.46331,ISO,3505.0
+2015,Yes,Japan,Electrical Equipment,Comm. equipm. & capital goods,17.46331,ISO,3505.0
+2017,Yes,Japan,Building Products,Comm. equipm. & capital goods,17.46331,ISO,4218.0
+2017,Yes,Japan,Building Products,Comm. equipm. & capital goods,149.685,ISO,51066.0
+2017,Yes,Japan,Building Products,Comm. equipm. & capital goods,128.367,ISO,39653.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1790.0,ISO,57100.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1735.0,ISO,40600.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1425.0,ISO,30500.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1535.0,ISO,31500.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1850.0,ISO,48800.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1730.0,ISO,69000.0
+2016,No,Germany,Auto Components,Automobiles & components,1200.0,ISO,32000.0
+2016,No,Germany,Auto Components,Automobiles & components,1200.0,ISO,34000.0
+2016,No,Germany,Auto Components,Automobiles & components,1650.0,ISO,12000.0
+2016,No,Germany,Auto Components,Automobiles & components,1400.0,ISO,36000.0
+2016,No,Germany,Auto Components,Automobiles & components,1800.0,ISO,39000.0
+2016,No,Germany,Auto Components,Automobiles & components,1925.0,ISO,24000.0
+2016,No,Germany,Auto Components,Automobiles & components,1200.0,ISO,31000.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1425.0,ISO,32500.0
+2016,No,Germany,Auto Components,Automobiles & components,2220.0,ISO,60000.0
+2016,No,Germany,Auto Components,Automobiles & components,1500.0,ISO,50000.0
+2016,No,Germany,Auto Components,Automobiles & components,2320.0,ISO,41000.0
+2016,Yes,Germany,Auto Components,Automobiles & components,2100.0,ISO,38000.0
+2016,Yes,Germany,Auto Components,Automobiles & components,1925.0,ISO,26000.0
+2016,No,Germany,Auto Components,Automobiles & components,1400.0,ISO,33000.0
+2016,No,Germany,Auto Components,Automobiles & components,2500.0,ISO,39000.0
+2016,No,Germany,Auto Components,Automobiles & components,2000.0,ISO,27000.0
+2016,No,Germany,Auto Components,Automobiles & components,3500.0,ISO,91000.0
+2016,No,Germany,Auto Components,Automobiles & components,3500.0,ISO,39000.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1505.0,ISO,50500.0
+2016,No,Germany,Auto Components,Automobiles & components,2050.0,ISO,85000.0
+2016,No,Germany,Auto Components,Automobiles & components,2715.0,ISO,51000.0
+2016,No,Germany,Auto Components,Automobiles & components,2595.0,ISO,66000.0
+2016,No,Germany,Auto Components,Automobiles & components,2585.0,ISO,38000.0
+2016,No,Germany,Auto Components,Automobiles & components,2065.0,ISO,72000.0
+2016,No,Germany,Auto Components,Automobiles & components,2015.0,ISO,45000.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1580.0,ISO,27400.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1680.0,ISO,47200.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,2110.0,Not reported,43600.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,2015.0,ISO,54000.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1725.0,ISO,22600.0
+2015,No,Germany,Not used for 2015 reporting,Automobiles & components,1490.0,ISO,30000.0
+2013,Yes,France,Food Products,Food & Beverage,1.0,PAS2050,1.531
+2013,Yes,France,Food Products,Food & Beverage,1.0,PAS2050,1.297
+2013,Yes,France,Food Products,Food & Beverage,1.0,PAS2050,0.174
+2015,Yes,France,Not used for 2015 reporting,Food & Beverage,1.0,PAS2050,0.145
+2015,Yes,France,Not used for 2015 reporting,Food & Beverage,1.0,Not reported,2.279
+2015,Yes,France,Not used for 2015 reporting,Food & Beverage,1.0,Not reported,1.26
+2015,Yes,France,Not used for 2015 reporting,Food & Beverage,1.0,Not reported,2.253
+2016,No,France,Chemicals,Chemicals,1.785714286,Not reported,0.567
+2016,No,France,Chemicals,Chemicals,1.25,Not reported,0.501
+2014,No,Taiwan,Computers & Peripherals,"Computer, IT & telecom",0.445,PAS2050,10.41
+2015,No,Taiwan,Not used for 2015 reporting,"Computer, IT & telecom",0.158,PAS2050,0.89
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.26,PAS2050,1.86
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",0.363,PAS2050,7.9
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",81.918782,PAS2050,686.42
+2016,Yes,Taiwan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",4.1,ISO,69.437
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",2.12,Not reported,348.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",2.56,Not reported,408.0
+2013,No,USA,Computers & Peripherals,"Computer, IT & telecom",2.52,ISO,350.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",1.36,Not reported,310.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",1.63,Not reported,276.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",7.03,Not reported,480.0
+2013,No,USA,Computers & Peripherals,"Computer, IT & telecom",11.7,ISO,800.0
+2013,No,USA,Computers & Peripherals,"Computer, IT & telecom",26.1,ISO,6360.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",26.1,Not reported,6360.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",5.7,Not reported,624.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",6.0,Not reported,667.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",2.0,Not reported,314.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",2.22,Not reported,309.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",2.0,Not reported,292.0
+2015,Yes,USA,Not used for 2015 reporting,"Computer, IT & telecom",2.3,Not reported,311.0
+2013,No,Netherlands,Chemicals,Chemicals,1.0,GHGP,5.5
+2014,No,Netherlands,Chemicals,Chemicals,1000.0,GHGP,5500.0
+2015,No,Netherlands,Not used for 2015 reporting,Chemicals,1000.0,GHGP,6500.0
+2016,No,Netherlands,Chemicals,Chemicals,1000.0,GHGP,6240.0
+2014,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,3100.0
+2013,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,2000.0
+2014,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,2000.0
+2014,No,Netherlands,Chemicals,Chemicals,1000.0,GHGP,4900.0
+2015,Yes,Netherlands,Not used for 2015 reporting,Chemicals,1000.0,GHGP,4700.0
+2016,No,Netherlands,Chemicals,Chemicals,1000.0,GHGP,1320.0
+2016,No,Netherlands,Chemicals,Chemicals,1000.0,Not reported,141.0
+2016,No,Netherlands,Chemicals,Chemicals,1000.0,Not reported,440.0
+2016,No,Netherlands,Chemicals,Chemicals,1.0,GHGP,2.85
+2016,No,Netherlands,Chemicals,Chemicals,1000.0,Not reported,1800.0
+2013,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,1600.0
+2014,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,1600.0
+2015,Yes,Netherlands,Not used for 2015 reporting,Chemicals,1000.0,GHGP,1600.0
+2013,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,2200.0
+2014,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,2200.0
+2015,Yes,Netherlands,Not used for 2015 reporting,Chemicals,1000.0,GHGP,2200.0
+2013,Yes,Netherlands,Chemicals,Chemicals,1.0,GHGP,3.0
+2014,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,3420.0
+2015,Yes,Netherlands,Not used for 2015 reporting,Chemicals,1000.0,GHGP,2580.0
+2016,No,Netherlands,Chemicals,Chemicals,1.0,GHGP,2.54
+2013,Yes,Netherlands,Chemicals,Chemicals,1.0,GHGP,2.2
+2014,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,3010.0
+2015,Yes,Netherlands,Not used for 2015 reporting,Chemicals,1000.0,GHGP,2760.0
+2016,No,Netherlands,Chemicals,Chemicals,1.0,GHGP,2.69
+2013,Yes,Netherlands,Chemicals,Chemicals,1.0,GHGP,2.0
+2014,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,3400.0
+2015,Yes,Netherlands,Not used for 2015 reporting,Chemicals,1000.0,GHGP,2910.0
+2016,No,Netherlands,Chemicals,Chemicals,1.0,GHGP,3.56
+2013,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,1200.0
+2013,Yes,Netherlands,Chemicals,Chemicals,1000.0,GHGP,220.0
+2013,No,Netherlands,Chemicals,Chemicals,1000.0,GHGP,850.0
+2013,No,South Africa,Beverages,Food & Beverage,1041.666667,Not reported,2019.0
+2016,No,South Africa,Beverages,Food & Beverage,1041.666667,GHGP,1280.0
+2014,Yes,United Kingdom,Food & Staples Retailing,Food & Beverage,1000.0,Not reported,603.0
+2015,No,United Kingdom,Not used for 2015 reporting,Food & Beverage,1000.0,GHGP,520.0
+2016,Yes,United Kingdom,Beverages,Food & Beverage,1000.0,GHGP,561.0
+2016,No,United Kingdom,Beverages,Food & Beverage,1000.0,GHGP,947.0
+2016,No,United Kingdom,Beverages,Food & Beverage,1000.0,GHGP,599.0
+2016,No,United Kingdom,Beverages,Food & Beverage,1000.0,GHGP,240.0
+2016,No,Italy,Containers & Packaging,Packaging for consumer goods,0.354,ISO,0.944
+2016,No,Italy,Containers & Packaging,Packaging for consumer goods,0.195,ISO,0.531
+2015,Yes,South Korea,Not used for 2015 reporting,"Computer, IT & telecom",1.98804,ISO,79.188
+2014,No,Taiwan,Auto Components,Automobiles & components,12.7,Not reported,105.924
+2013,Yes,Italy,Containers & Packaging,Packaging for consumer goods,1.0,EPD,1.16
+2013,No,Colombia,Beverages,Food & Beverage,0.00235,GHGP,0.0004
+2014,No,Colombia,Beverages,Food & Beverage,0.00235,GHGP,0.00043
+2013,No,China,Chemicals,Chemicals,1.0,Not reported,70.0
+2013,No,China,Chemicals,Chemicals,1.0,Not reported,6.0
+2014,No,USA,Containers & Packaging,Packaging for consumer goods,0.048,GHGP,0.07
+2014,No,USA,Containers & Packaging,Packaging for consumer goods,0.0434,GHGP,0.01
+2016,No,Indonesia,Containers & Packaging,Packaging for consumer goods,1000.0,Not reported,721.0
+2013,No,Malaysia,Food Products,Food & Beverage,1.0,Not reported,65.71
+2013,No,Malaysia,Food Products,Food & Beverage,1.0,Not reported,47.51
+2013,No,Malaysia,Food Products,Food & Beverage,1.0,Not reported,45.81
+2013,No,Malaysia,Food Products,Food & Beverage,1.0,Not reported,74.64
+2015,Yes,Greece,Not used for 2015 reporting,Food & Beverage,1.0,GHGP,0.7
+2014,Yes,USA,Metals & Mining,Construction & commercial materials,1000.0,ISO,3940.0
+2016,No,USA,Metals & Mining,Construction & commercial materials,1000.0,ISO,410.0
+2014,No,USA,Metals & Mining,Construction & commercial materials,1000.0,Not reported,5340.0
+2016,No,USA,Metals & Mining,Construction & commercial materials,1000.0,ISO,410.0
+2016,No,USA,Metals & Mining,Construction & commercial materials,1000.0,ISO,2219.0
+2016,No,USA,Metals & Mining,Construction & commercial materials,1000.0,ISO,6512.0
+2016,No,USA,Metals & Mining,Construction & commercial materials,1000.0,ISO,720.0
+2014,No,China,Household Durables,"Home durables, textiles, & equipment",1.3,Bilan Carbone,50.0
+2016,No,China,Electrical Equipment,Comm. equipm. & capital goods,1.0,Not reported,2.923
+2013,Yes,Sweden,Household Durables,"Home durables, textiles, & equipment",6.4,EUPEF,409.0
+2014,Yes,Sweden,Household Durables,"Home durables, textiles, & equipment",6.4,EUPEF,409.0
+2015,Yes,Sweden,Not used for 2015 reporting,"Home durables, textiles, & equipment",6.4,Not reported,409.0
+2013,Yes,Taiwan,Computers & Peripherals,"Computer, IT & telecom",1.3,PAS2050,213.17
+2013,No,Taiwan,Computers & Peripherals,"Computer, IT & telecom",9.26,GHGP,1.672
+2016,No,Germany,Auto Components,Automobiles & components,450.0,ISO,502.0
+2016,No,Germany,Auto Components,Automobiles & components,450.0,ISO,446.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",26.0,ISO,2300.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",33.0,ISO,2400.0
+2013,Yes,Japan,Office Electronics,"Computer, IT & telecom",13.0,GHGP,491.0
+2013,Yes,Japan,Office Electronics,"Computer, IT & telecom",24.0,GHGP,573.0
+2014,Yes,Japan,Office Electronics,"Computer, IT & telecom",25.600753,ISO,1400.0
+2015,Yes,Japan,Not used for 2015 reporting,"Computer, IT & telecom",25.600753,ISO,1400.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",25.600753,ISO,1400.0
+2014,Yes,Japan,Office Electronics,"Computer, IT & telecom",115.0,ISO,1500.0
+2015,Yes,Japan,Not used for 2015 reporting,"Computer, IT & telecom",115.0,ISO,1500.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",31.7,ISO,1200.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",19.0,ISO,2300.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",31.7,ISO,1300.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",19.0,ISO,2300.0
+2017,Yes,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",31.7,ISO,1300.0
+2013,Yes,Japan,Computers & Peripherals,"Computer, IT & telecom",5.89,ISO,140.1
+2014,Yes,Japan,IT Services,"Computer, IT & telecom",5.89,ISO,140.1
+2017,No,Japan,Software,"Computer, IT & telecom",7.0,ISO,690.0
+2013,No,USA,Automobiles,Automobiles & components,1820.086,GHGP,27588.0
+2014,Yes,USA,Automobiles,Automobiles & components,1820.086,GHGP,33933.0
+2015,Yes,USA,Not used for 2015 reporting,Automobiles & components,1820.086,GHGP,39100.0
+2016,No,USA,Auto Components,Automobiles & components,1820.086,GHGP,36386.0
+2013,Yes,Switzerland,Machinery,Comm. equipm. & capital goods,1.0,Not reported,2.42
+2016,Yes,USA,"Oil, Gas & Consumable Fuels",Chemicals,1000.0,GHGP,3025.0
+2014,No,Japan,"Electronic Equipment, Instruments & Components","Computer, IT & telecom",2270.0,ISO,9328.0
+2016,Yes,Japan,Auto Components,Automobiles & components,2272.33,M. Env. Japan v2.2,191687.0
+2014,No,Sweden,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,370.0
+2015,Yes,Sweden,Not used for 2015 reporting,Construction & commercial materials,1000.0,CEPI,211.0
+2014,No,Sweden,Paper & Forest Products,Construction & commercial materials,1000.0,Not reported,292.0
+2015,Yes,Sweden,Not used for 2015 reporting,Construction & commercial materials,1000.0,CEPI,210.0
+2015,No,South Korea,Not used for 2015 reporting,"Computer, IT & telecom",0.0084,Carbon Labeling Certificate,0.634
+2015,No,South Korea,Not used for 2015 reporting,"Computer, IT & telecom",0.0084,Carbon Labeling Certificate,0.691
+2015,No,South Korea,Not used for 2015 reporting,"Computer, IT & telecom",0.0084,Not reported,0.735
+2013,No,Luxembourg,Metals & Mining,Construction & commercial materials,4.7,ISO,7.3
+2013,No,Luxembourg,Metals & Mining,Construction & commercial materials,140000.0,ISO,167000.0
+2015,Yes,France,Not used for 2015 reporting,"Computer, IT & telecom",0.6,GHGP,49.98
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",0.4082331,Not reported,29.0
+2014,Yes,USA,Semiconductors & Semiconductor Equipment,"Computer, IT & telecom",0.4082331,Not reported,29.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",0.4082331,Not reported,14.0
+2014,Yes,USA,Semiconductors & Semiconductor Equipment,"Computer, IT & telecom",0.4082331,Not reported,14.0
+2013,Yes,USA,Computers & Peripherals,"Computer, IT & telecom",0.4082331,Not reported,7.0
+2014,Yes,USA,Semiconductors & Semiconductor Equipment,"Computer, IT & telecom",0.4082331,Not reported,7.0
+2017,No,United Kingdom,Chemicals,Chemicals,2.0,ISO,188.0
+2017,No,United Kingdom,Chemicals,Chemicals,2.0,ISO,63.0
